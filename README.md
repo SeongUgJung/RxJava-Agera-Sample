@@ -2,9 +2,8 @@
 
 
 1) Get Flickr Api Key
-```
-https://www.flickr.com/services/api/keys/
-```
+
+[Flickr Api Key Page](https://www.flickr.com/services/api/keys/)
 
 2) Put Api-Key
 
